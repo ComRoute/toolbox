@@ -1,0 +1,27 @@
+{
+  "name": "traducteur-scout",
+  "version": "0.3.4",
+  "description": "Traduit et relit les textes scouts en français et en néerlandais de Belgique (FR ↔ NL) avec le lexique des Scouts d’Europe de Belgique. Vertaalt en redigeert scoutsteksten in het Frans en het Belgisch-Nederlands (FR ↔ NL) met de woordenlijst van de Europascouts in België.",
+  "skills": "./skills/",
+  "interface": {
+    "category": "Productivity",
+    "composerIcon": "./assets/koudou-logo.png",
+    "defaultPrompt": [
+      "Traduis ce texte scout en néerlandais de Belgique.",
+      "Traduis cette annonce scoute en français.",
+      "Relis la version néerlandaise de mon texte scout et vérifie le vocabulaire."
+    ],
+    "developerName": "communication.route",
+    "displayName": "Koudou FR-NL",
+    "logo": "./assets/koudou-logo.png",
+    "longDescription": "Traduit et relit les textes scouts en français et en néerlandais de Belgique (FR ↔ NL) avec le lexique des Scouts d’Europe de Belgique. Vertaalt en redigeert scoutsteksten in het Frans en het Belgisch-Nederlands (FR ↔ NL) met de woordenlijst van de Europascouts in België.",
+    "shortDescription": "Traduction / Vertaling",
+    "capabilities": [
+      "Traduction scoute FR-NL",
+      "Relecture bilingue"
+    ]
+  },
+  "author": {
+    "name": "communication.route"
+  }
+}
